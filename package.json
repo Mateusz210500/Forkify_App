@@ -1,0 +1,26 @@
+{
+  "name": "forkify",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "parcel index.html",
+    "build": "parcel build index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mateusz210500/Forkify_App.git"
+  },
+  "author": "Mateusz Myga",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Mateusz210500/Forkify_App/issues"
+  },
+  "homepage": "https://github.com/Mateusz210500/Forkify_App#readme",
+  "devDependencies": {
+    "@parcel/transformer-image": "^2.0.0-nightly.2400",
+    "@parcel/transformer-sass": "^2.0.0-nightly.778",
+    "parcel": "^2.0.0-nightly.776"
+  }
+}
