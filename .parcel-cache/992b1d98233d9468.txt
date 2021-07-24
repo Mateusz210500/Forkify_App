@@ -32,7 +32,7 @@
 93C:\Users\mateu\Desktop\Programowanie\Frontend\JS\Forkify_Application\node_modules\randombytes132715947095074297 1
 121C:\Users\mateu\Desktop\Programowanie\Frontend\JS\Forkify_Application\node_modules\es-abstract\2016\IterableToArrayLike.js121436361000000000 0
 98C:\Users\mateu\Desktop\Programowanie\Frontend\JS\Forkify_Application\node_modules\lodash\create.js121436361000000000 0
-73C:\Users\mateu\Desktop\Programowanie\Frontend\JS\Forkify_Application\dist132715957951655941 1
+73C:\Users\mateu\Desktop\Programowanie\Frontend\JS\Forkify_Application\dist132715971743947379 1
 128C:\Users\mateu\Desktop\Programowanie\Frontend\JS\Forkify_Application\node_modules\set-value\node_modules\extend-shallow\index.js130800381320000000 0
 104C:\Users\mateu\Desktop\Programowanie\Frontend\JS\Forkify_Application\node_modules\postcss-merge-longhand132715947825068014 1
 96C:\Users\mateu\Desktop\Programowanie\Frontend\JS\Forkify_Application\node_modules\asn1\README.md131774616250000000 0
@@ -183,7 +183,7 @@
 114C:\Users\mateu\Desktop\Programowanie\Frontend\JS\Forkify_Application\node_modules\core-js\modules\es.math.hypot.js121436361000000000 0
 130C:\Users\mateu\Desktop\Programowanie\Frontend\JS\Forkify_Application\node_modules\@swc\helpers\src\_possible_constructor_return.js121436361000000000 0
 130C:\Users\mateu\Desktop\Programowanie\Frontend\JS\Forkify_Application\node_modules\jsdom\lib\jsdom\living\events\InputEvent-impl.js121436361000000000 0
-84C:\Users\mateu\Desktop\Programowanie\Frontend\JS\Forkify_Application\dist\index.html132715957951466576 0
+84C:\Users\mateu\Desktop\Programowanie\Frontend\JS\Forkify_Application\dist\index.html132715968624731478 0
 131C:\Users\mateu\Desktop\Programowanie\Frontend\JS\Forkify_Application\node_modules\jsdom\lib\jsdom\living\generated\KeyboardEvent.js121436361000000000 0
 75C:\Users\mateu\Desktop\Programowanie\Frontend\JS\Forkify_Application\src\js132715940850408606 1
 144C:\Users\mateu\Desktop\Programowanie\Frontend\JS\Forkify_Application\node_modules\source-map-support\node_modules\source-map\lib\mapping-list.js131369414910000000 0
@@ -298,7 +298,7 @@
 90C:\Users\mateu\Desktop\Programowanie\Frontend\JS\Forkify_Application\src\sass\_upload.scss132482863140000000 0
 89C:\Users\mateu\Desktop\Programowanie\Frontend\JS\Forkify_Application\node_modules\foreach132715947105623276 1
 99C:\Users\mateu\Desktop\Programowanie\Frontend\JS\Forkify_Application\node_modules\vendors\readme.md121436361000000000 0
-89C:\Users\mateu\Desktop\Programowanie\Frontend\JS\Forkify_Application\src\js\controller.js132482863140000000 0
+89C:\Users\mateu\Desktop\Programowanie\Frontend\JS\Forkify_Application\src\js\controller.js132715971743014557 0
 88C:\Users\mateu\Desktop\Programowanie\Frontend\JS\Forkify_Application\node_modules\@babel132715947075454420 1
 88C:\Users\mateu\Desktop\Programowanie\Frontend\JS\Forkify_Application\src\img\favicon.png132482863140000000 0
 99C:\Users\mateu\Desktop\Programowanie\Frontend\JS\Forkify_Application\node_modules\es6-object-assign132715947106082056 1
@@ -8220,7 +8220,7 @@
 122C:\Users\mateu\Desktop\Programowanie\Frontend\JS\Forkify_Application\node_modules\postcss-minify-font-values\dist\index.js121436361000000000 0
 109C:\Users\mateu\Desktop\Programowanie\Frontend\JS\Forkify_Application\node_modules\core-js\stable\math\cosh.js121436361000000000 0
 113C:\Users\mateu\Desktop\Programowanie\Frontend\JS\Forkify_Application\node_modules\@parcel\core\lib\BundleGraph.js121436361000000000 0
-92C:\Users\mateu\Desktop\Programowanie\Frontend\JS\Forkify_Application\dist\index.fa02a0b5.css132715957951466576 0
+92C:\Users\mateu\Desktop\Programowanie\Frontend\JS\Forkify_Application\dist\index.fa02a0b5.css132715968624731478 0
 117C:\Users\mateu\Desktop\Programowanie\Frontend\JS\Forkify_Application\node_modules\postcss-minify-font-values\dist\lib132715947790218859 1
 100C:\Users\mateu\Desktop\Programowanie\Frontend\JS\Forkify_Application\node_modules\is-regex\README.md121436361000000000 0
 98C:\Users\mateu\Desktop\Programowanie\Frontend\JS\Forkify_Application\node_modules\lodash\number.js121436361000000000 0
@@ -9708,7 +9708,7 @@
 109C:\Users\mateu\Desktop\Programowanie\Frontend\JS\Forkify_Application\node_modules\http-signature\lib\index.js131480975920000000 0
 101C:\Users\mateu\Desktop\Programowanie\Frontend\JS\Forkify_Application\node_modules\lodash\overEvery.js121436361000000000 0
 104C:\Users\mateu\Desktop\Programowanie\Frontend\JS\Forkify_Application\node_modules\fs-constants\README.md131692272410000000 0
-96C:\Users\mateu\Desktop\Programowanie\Frontend\JS\Forkify_Application\dist\index.fa02a0b5.css.map132715957951496488 0
+96C:\Users\mateu\Desktop\Programowanie\Frontend\JS\Forkify_Application\dist\index.fa02a0b5.css.map132715968624761417 0
 99C:\Users\mateu\Desktop\Programowanie\Frontend\JS\Forkify_Application\node_modules\lodash\fp\noop.js121436361000000000 0
 100C:\Users\mateu\Desktop\Programowanie\Frontend\JS\Forkify_Application\node_modules\lodash\overSome.js121436361000000000 0
 103C:\Users\mateu\Desktop\Programowanie\Frontend\JS\Forkify_Application\node_modules\lodash\_baseKeysIn.js121436361000000000 0
@@ -13507,7 +13507,7 @@
 104C:\Users\mateu\Desktop\Programowanie\Frontend\JS\Forkify_Application\node_modules\delegates\package.json132715953702293517 0
 101C:\Users\mateu\Desktop\Programowanie\Frontend\JS\Forkify_Application\node_modules\delegates\Readme.md130945965230000000 0
 96C:\Users\mateu\Desktop\Programowanie\Frontend\JS\Forkify_Application\node_modules\delegates\test132715953699105852 1
-91C:\Users\mateu\Desktop\Programowanie\Frontend\JS\Forkify_Application\dist\index.0e47d5c3.js132715957951466576 0
+91C:\Users\mateu\Desktop\Programowanie\Frontend\JS\Forkify_Application\dist\index.0e47d5c3.js132715971743917451 0
 104C:\Users\mateu\Desktop\Programowanie\Frontend\JS\Forkify_Application\node_modules\delayed-stream\License130746338120000000 0
 110C:\Users\mateu\Desktop\Programowanie\Frontend\JS\Forkify_Application\node_modules\css-tree\lib\syntax\index.js121436361000000000 0
 133C:\Users\mateu\Desktop\Programowanie\Frontend\JS\Forkify_Application\node_modules\caniuse-lite\data\features\text-underline-offset.js121436361000000000 0
@@ -17222,7 +17222,7 @@
 96C:\Users\mateu\Desktop\Programowanie\Frontend\JS\Forkify_Application\node_modules\.bin\uncss.ps1132715947119550387 0
 95C:\Users\mateu\Desktop\Programowanie\Frontend\JS\Forkify_Application\node_modules\.bin\uuid.cmd132715947119221281 0
 92C:\Users\mateu\Desktop\Programowanie\Frontend\JS\Forkify_Application\node_modules\.bin\which132715947119291090 0
-94C:\Users\mateu\Desktop\Programowanie\Frontend\JS\Forkify_Application\dist\favicon.62381efe.png132715957951091713 0
-92C:\Users\mateu\Desktop\Programowanie\Frontend\JS\Forkify_Application\dist\icons.1ea35d5c.svg132715957951237160 0
-95C:\Users\mateu\Desktop\Programowanie\Frontend\JS\Forkify_Application\dist\index.0e47d5c3.js.map132715957951496488 0
-91C:\Users\mateu\Desktop\Programowanie\Frontend\JS\Forkify_Application\dist\logo.739a33b1.png132715957951127456 0
+94C:\Users\mateu\Desktop\Programowanie\Frontend\JS\Forkify_Application\dist\favicon.62381efe.png132715968624022839 0
+92C:\Users\mateu\Desktop\Programowanie\Frontend\JS\Forkify_Application\dist\icons.1ea35d5c.svg132715968623853281 0
+95C:\Users\mateu\Desktop\Programowanie\Frontend\JS\Forkify_Application\dist\index.0e47d5c3.js.map132715971743937392 0
+91C:\Users\mateu\Desktop\Programowanie\Frontend\JS\Forkify_Application\dist\logo.739a33b1.png132715968624413777 0
